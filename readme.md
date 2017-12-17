@@ -2,9 +2,6 @@
 
 This project is a demo to show how to use https://www.microsoft.com/cognitive-services.  You will need to obtain a key for the Emotion API [here](https://www.microsoft.com/cognitive-services/en-US/subscriptions).
 
-You can find a demo at http://happyimagetester.azurewebsites.net/
-
-Prefer Node.js? Check out this [sample in Node.js](https://github.com/jsturtevant/happy-image-tester-nodejs).
 
 ## Setup
 ### Use Docker (https://www.docker.com/) 
